@@ -11,8 +11,7 @@
 &nbsp;
 <div align="center">
 
- <span style="color:orange"> QA Bootcamp Project 
-</span>
+# <span style="color:orange"> QA Bootcamp Project </span>
 
 
 </div>
