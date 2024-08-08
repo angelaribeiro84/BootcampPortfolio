@@ -80,7 +80,7 @@ Here are the technical skills that each of these apps added to the knowledge acq
 
 
 
-This QA project was developed with the aim of improving my skills in software testing and learning new technologies. Throughout the development of this project, I used the Jira **[Jira](https://angela-ribeiro.atlassian.net/jira/projects?selectedProjectType=software)** platform to create my bug reports. I look forward to further expanding my knowledge and contributing to future projects. 
+This QA project was developed with the aim of improving my skills in software testing and learning new technologies. Throughout the development of this project, I used the **[Jira](https://angela-ribeiro.atlassian.net/jira/projects?selectedProjectType=software)** platform to create my bug reports. I look forward to further expanding my knowledge and contributing to future projects. 
 
 <div align="center">
 
