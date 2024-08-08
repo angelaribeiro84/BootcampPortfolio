@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="imagem/mark.jpg">
+![Tripleten](https://uspto.report/TM/98041965/mark)
 
-![QAENGINEER](imagem/mark2.png)
+![Tripleten](https://https://media.licdn.com/dms/image/D5612AQFoqE2L_kJhjA/article-cover_image-shrink_720_1280/0/1713380963874?e=2147483647&v=beta&t=tYud7Djt_oalBXejysxB5CCWCrVXI1rn6ZZ_Jr0Putc)
 
 
 </div>
@@ -83,6 +83,6 @@ This QA project was developed with the aim of improving my skills in software te
 
 <div align="center">
 
-![QAENGINEER](imagem/mark3.webp)
+![Tripleten](https://d1h6w5f3g2yoyh.cloudfront.net/usa-main/tild6163-3230-4561-b034-623337663330__qa.png.webp)
 
 </div>
