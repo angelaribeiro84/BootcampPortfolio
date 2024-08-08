@@ -28,7 +28,7 @@ Here are the technical skills that each of these apps added to the knowledge acq
 
 
 ### Urban Routes
-**Basic Concepts of Testing**
+**Basic Testing Concepts**
 - Introduction to QA Analysis
 - Development and Testing
 - Checklists
@@ -37,28 +37,32 @@ Here are the technical skills that each of these apps added to the knowledge acq
 
 **Test Design**
 - Requirements Analysis
-- Test Design
 - Test Documentation
+- Flowchart
+- Mind Map
+- Equivalence Classes
+- Boundary Values
+- Test Analysis
 
 **Web Apps Testing**
 - How a Web App Works
+- HTTP
+- Backend and and frontend
 - UI Testing of a Web App
 - Cross-Platform and Cross-Browser Testing
 - Responsive Web Design Testing
 - Test Design for Web Application Testing
+- Layouts and Figma
+- Jira bug reports
   
 &nbsp;
 ### Urban Grocers
 **API Testing**
-- API Introduction
+- REST and JSON
 - API Testing with Postman
 - Test Design for API Testing
+- ApiDoc and Swagger
   
-&nbsp;
-### Urban Scooter
-**Database Basics**
-- Command Line
-- Basic SQL Concepts
   
 &nbsp;
 ### Urban Scooter
@@ -66,9 +70,14 @@ Here are the technical skills that each of these apps added to the knowledge acq
 - Task 2: Urban Scooter Web Application
 - Task 3: Urban Scooter Application API
 
-  &nbsp;
 
-
+&nbsp;
+### 5th Sprint
+**Database Basics**
+- Command Line
+- Basic SQL Concepts
+- Remote Server Connection
+  
 <div align="center">
 
 
