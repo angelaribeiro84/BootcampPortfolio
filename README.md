@@ -19,8 +19,7 @@
 &nbsp;
 
 ## Overview
-This is my  QA Bootcamp Project. On this repository are some of the materials related to the Tripleten Brazil QA Bootcamp. The materials are organized by sprints and tests were conducted on three different apps: *Urban Routes, Urban Grocery, and Urban Scooter*.
-Here are the technical skills that each of these apps added to the knowledge acquired in the previous "sprint".
+Welcome to my QA Bootcamp Project repository. This project encompasses various materials related to the Tripleten Brazil QA Bootcamp. The content is organized by sprints, and testing was performed on three different applications: Urban Routes, Urban Grocery, and Urban Scooter. Each sprint introduced new technical skills and knowledge, building on the previous learnings.
 
 
 
